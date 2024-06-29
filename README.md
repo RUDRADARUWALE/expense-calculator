@@ -1,1 +1,42 @@
-# expense-calculator
+# Expense Tracker Website
+
+Welcome to the Expense Tracker website! This platform enables you to efficiently manage your expenses with a user-friendly and visually appealing interface. Users can sign up, log in, and keep track of their expenses seamlessly.
+
+## Features
+
+- **Attractive Home Page:** The home page offers an intuitive and aesthetically pleasing interface, making navigation easy and enjoyable.
+
+- **User Registration:** Sign up for an account using a simple and intuitive signup form. The form ensures that input is valid and passwords match.
+
+- **User Login:** Access your account by logging in with your credentials. The application verifies the entered username and password against the information stored in local storage. Successful login grants access to your account dashboard.
+
+- **Data Persistence:** The application uses local storage to save user signup information and expense records.
+
+## Technology Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+
+### Sign Up
+
+1. Go to the signup page.
+2. Enter the required details.
+3. Make sure that the passwords match.
+4. Click the signup button to create your account.
+
+### Log In
+
+1. Navigate to the login page.
+2. Enter your username and password.
+3. Click the login button to access your account.
+
+### Track Expenses
+
+1. After logging in, use the expense tracker to add new expenses and manage existing ones.
+2. Enter the expense details as required.
+3. Save your expenses to keep track of them over time.
+
+Explore the Expense Tracker website to manage your finances effectively and efficiently!
